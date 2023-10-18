@@ -10,11 +10,3 @@ Como en Prado se especifica que es solo uno de la pareja los que tienen que entr
 Especificación de la función:  
 
 ![Especificación crop](Imágenes/es_ej1.png)  
-
-Fichero origen:  
-
-![Vacas](Imágenes/vacas.pgm)  
-
-Fichero resultante:  
-
-![cabeza](Imágenes/cabeza.pgm)
