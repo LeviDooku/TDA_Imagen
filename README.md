@@ -9,4 +9,4 @@ Como en Prado se especifica que es solo uno de la pareja los que tienen que entr
 
 Especificación de la función:  
 
-![Especificación crop](/images/es_ej1.jpg)
+![Especificación crop](/images/es_ej1.png)
