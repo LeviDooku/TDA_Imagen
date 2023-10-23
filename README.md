@@ -11,7 +11,7 @@ Especificación de la función:
 
 ![Especificación crop](Imágenes/es_ej1.png)  
 
-## [Ejercicio 3](Ej_1/Ej_1.cpp)  
+## [Ejercicio 3](Ej_3/Ej_3.cpp)  
 
 Especificación de la función:  
 
