@@ -7,7 +7,7 @@
 /////////////////////////////
 
 /////////////////////////////
-//		   image.h         //
+//         image.h         //
 //	 Declaración función   //
 /////////////////////////////
 
@@ -24,7 +24,7 @@
 Image Subsample(int factor) const;
 
 ///////////////////////////////
-//		   image.cpp         //
+//         image.cpp         //
 //	 Implementación función  //
 ///////////////////////////////
 
@@ -61,7 +61,7 @@ Image Image::Subsample(int factor) const{
 }
 
 /////////////////////////////
-//	    subimagen.cpp      //
+//      icono.cpp          //
 //	    Función main       //
 /////////////////////////////
 
