@@ -10,3 +10,9 @@ Como en Prado se especifica que es solo uno de la pareja los que tienen que entr
 Especificación de la función:  
 
 ![Especificación crop](Imágenes/es_ej1.png)  
+
+## [Ejercicio 3](Ej_1/Ej_1.cpp)  
+
+Especificación de la función:  
+
+![Especificación subsample](Imágenes/es_ej3.png)  
