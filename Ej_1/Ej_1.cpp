@@ -12,14 +12,14 @@
 /////////////////////////////
 
 /**
-* @brief Genera una subimagen.
-* @param row Fila inicial para recortar 
-* @param ncol Columna inicial para recortar
-* @param height Número de filas
-* @param width Número de columnas
-* @return Imagen con el recorte. 
-* @post El objeto que llama a la función no se modifica.
-**/
+  * @brief Genera una subimagen.
+  * @param row Fila inicial para recortar 
+  * @param ncol Columna inicial para recortar
+  * @param height Número de filas
+  * @param width Número de columnas
+  * @return Imagen con el recorte. 
+  * @post El objeto que llama a la función no se modifica.
+  */
     
 Image Crop(int nrow, int ncol, int height, int width) const;
 
