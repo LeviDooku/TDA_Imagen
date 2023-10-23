@@ -2,12 +2,12 @@
 
 /////////////////////////////
 //Pedro Velasco Santana,   //
-//2D - D2				   //
+//2D - D2				           //
 //Práctica 2, ejercicio 1. //
 /////////////////////////////
 
 /////////////////////////////
-//		   image.h 		   //
+//		   image.h 		       //
 //	 Declaración función   //
 /////////////////////////////
 
@@ -24,7 +24,7 @@
 Image Crop(int nrow, int ncol, int height, int width) const;
 
 ///////////////////////////////
-//		   image.cpp 	     //
+//		   image.cpp 	         //
 //	 Implementación función  //
 ///////////////////////////////
 
