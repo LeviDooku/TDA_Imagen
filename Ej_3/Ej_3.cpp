@@ -2,12 +2,12 @@
 
 /////////////////////////////
 //Pedro Velasco Santana,   //
-//2D - D2				   //
+//2D - D2                  //
 //Práctica 2, ejercicio 3. //
 /////////////////////////////
 
 /////////////////////////////
-//		   image.h 		   //
+//		   image.h         //
 //	 Declaración función   //
 /////////////////////////////
 
@@ -24,7 +24,7 @@
 Image Subsample(int factor) const;
 
 ///////////////////////////////
-//		   image.cpp 	     //
+//		   image.cpp         //
 //	 Implementación función  //
 ///////////////////////////////
 
