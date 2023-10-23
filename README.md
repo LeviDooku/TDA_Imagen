@@ -11,8 +11,16 @@ Especificación de la función:
 
 ![Especificación crop](Imágenes/es_ej1.png)  
 
+Resultado:  
+
+![Resultado](Imágenes/crop.png) 
+
 ## [Ejercicio 3](Ej_3/Ej_3.cpp)  
 
 Especificación de la función:  
 
 ![Especificación subsample](Imágenes/es_ej3.png)  
+
+Resultado:
+
+![Resultado](Imágenes/icono.png) 
