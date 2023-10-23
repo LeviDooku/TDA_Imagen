@@ -7,8 +7,8 @@
 /////////////////////////////
 
 /////////////////////////////
-//		   image.h 		       //
-//	 Declaración función   //
+//         image.h         //
+//   Declaración función   //
 /////////////////////////////
 
 /**
@@ -24,8 +24,8 @@
 Image Crop(int nrow, int ncol, int height, int width) const;
 
 ///////////////////////////////
-//		   image.cpp 	         //
-//	 Implementación función  //
+//         image.cpp         //
+//   Implementación función  //
 ///////////////////////////////
 
 Image Image::Crop(int nrow, int ncol, int height, int width) const{
@@ -45,8 +45,8 @@ Image Image::Crop(int nrow, int ncol, int height, int width) const{
 }
 
 /////////////////////////////
-//	    subimagen.cpp      //
-//	    Función main       //
+//      subimagen.cpp      //
+//      Función main       //
 /////////////////////////////
 
 #include <iostream>
