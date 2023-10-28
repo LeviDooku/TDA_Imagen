@@ -15,6 +15,8 @@ Resultado:
 
 ![Resultado](Imágenes/crop.png) 
 
+## [Ejercicio 2](Ej_2/Ej_2.cpp)
+
 ## [Ejercicio 3](Ej_3/Ej_3.cpp)  
 
 Especificación de la función:  
@@ -23,4 +25,6 @@ Especificación de la función:
 
 Resultado:
 
-![Resultado](Imágenes/icono.png) 
+![Resultado](Imágenes/icono.png)
+
+## [Ejercicio 4](Ej_4/Ej_4.cpp) 
