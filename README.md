@@ -15,7 +15,11 @@ Resultado:
 
 ![Resultado](Imágenes/crop.png) 
 
-## [Ejercicio 2](Ej_2/Ej_2.cpp)
+## [Ejercicio 2](Ej_2/Ej_2.cpp)  
+
+Especificación de la función:
+
+![Especificación zoom](Imágenes/es_ej2.png)  
 
 ## [Ejercicio 3](Ej_3/Ej_3.cpp)  
 
