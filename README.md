@@ -36,3 +36,6 @@ Resultado:
 ![Resultado](Imágenes/icono.png)
 
 ## [Ejercicio 4](Ej_4/Ej_4.cpp) 
+
+![Especificación subsample](Imágenes/es_ej4.png)  
+
