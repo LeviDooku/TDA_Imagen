@@ -19,7 +19,11 @@ Resultado:
 
 Especificación de la función:
 
-![Especificación zoom](Imágenes/es_ej2.png)  
+![Especificación zoom](Imágenes/es_ej2.png) 
+
+Resultado: 
+
+![Resultado](Imágenes/zoom.png) 
 
 ## [Ejercicio 3](Ej_3/Ej_3.cpp)  
 
