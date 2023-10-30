@@ -39,3 +39,6 @@ Resultado:
 
 ![Especificación subsample](Imágenes/es_ej4.png)  
 
+![Resultado](Imágenes/contraste.png)
+
+
