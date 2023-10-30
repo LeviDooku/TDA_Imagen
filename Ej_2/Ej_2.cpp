@@ -30,8 +30,7 @@ Image Zoom2X(char *origen, char *destino, int fila, int col, int lado) const;
 //   Implementación función  //
 ///////////////////////////////
 
-Image Image::Zoom2X(char *origen, char *destino, int fila, int col, int lado) const{
-
+Image Image::Zoom2X(char *origen, char *destino, int fila, int col, int lado) const {
     Image imagenOrigen;
     Image imagenFinal(2*lado-1, 2*lado-1);
     int iF=0, jF=0;
@@ -64,7 +63,7 @@ Image Image::Zoom2X(char *origen, char *destino, int fila, int col, int lado) co
     iF=1, jF=0;
     for (int i = fila; i < fila+lado-1; i++){
         jF=0;
-        for (int j = col; j < col+lado; j++){
+        for (int j = col; j < col+lado-1; j++){
             if (jF%2==0)
                 imagenFinal.set_pixel(iF, jF, (byte) roundf((float) (imagenOrigen.get_pixel(i, j)+imagenOrigen.get_pixel(i+1, j)) / 2));
             jF++;
@@ -75,6 +74,7 @@ Image Image::Zoom2X(char *origen, char *destino, int fila, int col, int lado) co
             }
             jF++;
         }
+        imagenFinal.set_pixel(iF, jF, (byte) roundf((float) (imagenOrigen.get_pixel(i, col+lado-1)+imagenOrigen.get_pixel(i+1, col+lado-1)) / 2));
         iF+=2;
     }
     return imagenFinal;

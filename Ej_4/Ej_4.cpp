@@ -32,7 +32,6 @@ void AdjustContrast (byte in1, byte in2, byte out1, byte out2);
 
 void Image::AdjustContrast(byte in1, byte in2, byte out1, byte out2){
     byte valor;
-    byte cociente = (out2 - out1) / (in2 - in1);
     float min, max, a, b;
     for (int i=0; i<this->size(); i++) {
         valor = this->get_pixel(i);
@@ -52,7 +51,7 @@ void Image::AdjustContrast(byte in1, byte in2, byte out1, byte out2){
             a = (float) in1;
             b = (float) in2;
         }
-        byte nValor = (byte) roundf((min + ((cociente) * ((float) valor - a))));
+        byte nValor = (byte) roundf((min + ((max - min) / (b - a) * ((float) valor - a))));
         this->set_pixel(i, nValor);
     }
 }
