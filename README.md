@@ -2,7 +2,7 @@
 
 Primera práctica de la asignatura Estructuras de datos del primer cuatrimestre de 2º Ing. Informática de la UGR.  
 
-Este no es el ejercicio completo, solo las funciones hechas. La práctica completa incluye otros aspectos como realizar la documentación estilo doxygen
+Este no es el ejercicio completo, solo las funciones hechas. La práctica completa incluye otros aspectos como realizar la documentación estilo doxygen.
 
 ## [Ejercicio 1](Ej_1/Ej_1.cpp)  
 
